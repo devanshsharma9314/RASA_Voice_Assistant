@@ -1,0 +1,42 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you later
+    - good bye
+
+- intent: ask_question
+  examples: |
+    - tell me about [machine learning](topic)
+    - what is [AI](topic)
+    - explain [blockchain](topic)
+    - I want to ask something
+    - can you help me with something
+    - I have a question
+
+- intent: ask_weather
+  examples: |
+    - what's the weather like
+    - tell me about today's weather
+    - weather today
+    - how's the weather
+    - weather forecast
+    - is it going to rain
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot
+    - are you human
+    - what are you

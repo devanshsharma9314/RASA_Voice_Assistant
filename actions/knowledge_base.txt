@@ -1,0 +1,113 @@
+## BYD Sealion 7 – Core Specifications (AWD vs RWD)
+| Feature                               | AWD                         | RWD                        |
+|---------------------------------------|-----------------------------|----------------------------|
+| Length × Width × Height (mm)          | 4830 × 1925 × 1620          | 4830 × 1925 × 1620         |
+| Wheelbase (mm)                        | 2930                        | 2930                       |
+| Overall Curb Weight (kg)              | 2350                        | 2225                       |
+| Minimum Turning Radius (m)            | 5.85                        | 5.85                       |
+| Ground Clearance - laden (mm)         | 140                         | 140                        |
+| Brake Type (F/R)                      | Ventilated & Perforated Disc / Ventilated Disc | Ventilated & Perforated Disc / Ventilated Disc |
+| Suspension (F/R)                      | Double-Wishbone FSD / Multi-Link FSD | Double-Wishbone FSD / Multi-Link FSD |
+| Tyre Size                             | 245/45 R20                  | 235/50 R19                 |
+| Cargo Volume (L)                      | 500                         | 500                        |
+| Motor Max Power (kW)                  | Front 160 + Rear 230 = 390  | 230                        |
+| Top Speed (km/h)                      | 215                         | 215                        |
+| Max Climb Angle (°)                   | 50                          | 30                         |
+| 0-100 km/h Acceleration (s)           | 4.5                         | 6.7                        |
+| WLTP Range (km)                       | 462                         | 482                        |
+| Energy Consumption (kWh/100 km)       | 21.4                        | 19.9                       |
+| Battery Type                          | LFP                         | LFP                        |
+| Battery Capacity (kWh)                | 82.5                        | 82.5                       |
+| Charging Power (AC / DC kW)           | 11 / 150                    | 11 / 150                   |
+| Charge Port Standard                  | CCS2                        | CCS2                       |
+---
+## New-Energy Convenience Features
+- Scheduled Charging
+- Vehicle-to-Load (AC V2L) Discharge
+- EU CCS2 Charge Port
+- Portable Home Charger
+- Electric Unlock for Charge-Port Cover
+- Engine-Sound Simulator
+---
+## Safety Highlights
+- Front Driver, Passenger & Far-Side Airbags
+- Front & Rear Side Airbags; Full-Length Curtain
+- Pretension Seatbelts (Front & Rear Outer) + Belt Reminder (All Seats)
+- Electronic Stability Control (ESC), Intelligent Power Braking (IPB), Hydraulic Brake Boost (HBB), Traction Control (TCS), Hill-start Assist (HHC)
+- Advanced Driver-Assist Suite: ACC, ICC, ISLI, ISLC, FCW, AEB, RCW, FCTA/FCTB, RCTA/RCTB, LDA, ELKA
+- 2 Front + 4 Rear Parking Radars; Tyre-Pressure Monitoring
+- Electric Child Safety Lock
+- On-board Safety Kit: Triangle, 1 kg Extinguisher, Reflective Vest, Towing Hook, Wheel-Nut Clip, Tyre Repair Kit
+- W-HUD (AWD only)
+---
+## Exterior Equipment (variant differences noted)
+| Item                            | RWD                        | AWD                        |
+|---------------------------------|----------------------------|----------------------------|
+| Panoramic Sunroof               | Equipped                   | Equipped                   |
+| Dynamic Active Grille           | Equipped                   | Equipped                   |
+| Door Handles (Flush-Fit)        | Equipped                   | Equipped                   |
+| Trunk Release                   | Electric button            | Kick sensor                |
+| Wheel Specification             | 19-inch Giti (bi-colour)   | 20-inch Michelin (bi-colour) |
+| Underbody Shields (Powertrain & Battery) | Equipped         | Equipped                   |
+---
+## Interior & Convenience
+- Black interior; knitted-fabric headliner
+- Four-spoke leather multifunction steering wheel (ACC, Bluetooth, Voice, 360-view)
+- 10.25-inch LCD instrument cluster
+- 15.6-inch rotatable touchscreen (Dlink 8155, FM/AM/DAB, GPS, Wi-Fi, Wireless CarPlay & Android Auto, OTA)
+- Dynaudio 12-speaker audio
+- Wireless phone charger; multiple USB-A/C ports
+- Electric panoramic sun-shade
+- Dual-zone automatic climate control with PM2.5 filter; rear vents (foot & face)
+---
+## Seating & Cargo
+| Function                               | Driver | Front Passenger | Rear Row |
+|----------------------------------------|--------|-----------------|----------|
+| Seat Material                          | PU     | PU              | PU       |
+| Electric Adjustment Ways               | 8-way + 4-way lumbar + 2-way leg-extension | 6-way | Manual back-rest angle |
+| Ventilation Function                   | Yes    | Yes             | —        |
+| Memory & Easy-Entry                    | Yes    | —               | —        |
+| 4:6 Split Folding                      | —      | —               | Yes      |
+| ISO-FIX Child Seat Anchors             | —      | —               | Yes      |
+---
+## Lighting Package
+- Full LED headlamps with DRL, auto height adjust, “Follow-me-home”
+- LED rear combo lights & high-mounted brake light
+- Dynamic welcome light show (headlights)
+- Front & rear fog lamps; steering corner lamp
+- Multi-colour interior ambient & charge-port lights
+- Cabin illumination: roof, sub-dashboard, trunk, glovebox, 4-door LEDs
+---
+## Mirrors, Windows & Wipers
+- Rain-sensing front wipers; sound-insulated windshield
+- Double-layer acoustic side glass (four doors)
+- Rear window heating & defrost
+- One-touch up/down on all windows with anti-pinch & remote control
+- Power-folding, heated exterior mirrors with memory, foot-lights, reverse dip, BSD
+- Auto-dimming interior mirror
+---
+## Control & Drive Modes
+- Electronic remote key, NFC card & phone key; keyless entry/start
+- Drive-mode selector: Sport / Normal / Eco
+- EPB with Auto-Hold; DP-EPS steering; manual 4-way column adjust
+---
+## Colours
+| Exterior Paint | Interior Trim |
+|----------------|---------------|
+| Snow White     | Black         |
+| Deep Black     | Blue          |
+| Rosemary Grey  |               |
+| Atlantis Grey  |               |
+---
+## UAE Pricing (MY 2025)
+| Variant      | Starting Price (AED) |
+|--------------|----------------------|
+| RWD (Premium) | 172 ,900            |
+| AWD (Performance) | 192 ,900        |
+---
+## Important Notices
+- Real-world range varies with driving style, load and conditions.
+- Colours shown may differ from actual finish.
+- Driver-assist features are aids, not substitutes for driver responsibility.
+- BYD may change specifications without prior notice.
+- Bluetooth®, Apple CarPlay® and Android Auto™ are trademarks of their respective owners; availability may vary by market.

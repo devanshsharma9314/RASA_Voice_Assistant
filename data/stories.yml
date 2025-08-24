@@ -1,0 +1,24 @@
+version: "3.1"
+
+stories:
+- story: greeting and question flow
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_question
+  - action: action_process_with_llm
+
+- story: direct question
+  steps:
+  - intent: ask_question
+  - action: action_process_with_llm
+
+- story: fallback to LLM
+  steps:
+  - intent: nlu_fallback
+  - action: action_fallback_llm
+
+- story: weather question
+  steps:
+  - intent: ask_weather
+  - action: action_process_with_llm

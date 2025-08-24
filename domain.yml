@@ -1,0 +1,36 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - ask_question
+  - ask_weather
+  - bot_challenge
+  - nlu_fallback
+
+entities:
+  - topic
+
+slots:
+  conversation_context:
+    type: text
+    mappings:
+    - type: custom
+
+responses:
+  utter_greet:
+    - text: "Hi there, I'm a sales consultant for the BYD Sealion 7... how can I help you today?"
+
+  utter_goodbye:
+    - text: "Goodbye! Have a great day!"
+
+  utter_iamabot:
+    - text: "I am a voice-enabled bot, powered by Rasa and AI!"
+
+actions:
+  - action_process_with_llm
+  - action_fallback_llm
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
